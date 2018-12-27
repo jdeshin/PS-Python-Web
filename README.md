@@ -15,4 +15,6 @@ else
 {
     $result.error
 }
+
+Remove-PythonWebEngine $pwe
 ```
